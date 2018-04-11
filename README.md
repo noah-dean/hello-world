@@ -1,3 +1,2 @@
 # hello-world
-a short description
-i am doing a task
+i am doing a task right now for programming!
